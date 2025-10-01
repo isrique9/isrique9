@@ -17,7 +17,8 @@
 
 ## 📊 Linguagens mais usadas:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&langs_count=6&theme=tokyonight)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&theme=dracula)
+
 
 # 🚀 Projeto em destaque:
 
