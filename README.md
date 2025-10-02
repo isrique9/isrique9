@@ -19,7 +19,7 @@
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&theme=dracula)
 
-[![Isrique Contribuation Graph](https://github-readme-activity-graph.vercel.app/graph?username=Isrique90&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Isrique Contribuation Graph](https://github-readme-activity-graph.vercel.app/graph?username=Isrique9&theme=tokyo-night)](https://github.com/isrique9/github-readme-activity-graph)
 
 # 🚀 Projeto em destaque:
 
