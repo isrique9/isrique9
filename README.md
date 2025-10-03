@@ -20,8 +20,3 @@
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&theme=dracula)
 
 [![Isrique Contribuation Graph](https://github-readme-activity-graph.vercel.app/graph?username=Isrique9&theme=tokyo-night)](https://github.com/isrique9/github-readme-activity-graph)
-
-# 🚀 Projeto em destaque:
-
-## Projeto Patas🐾:
-Aplicativo web desenvolvido com Flask e HTML/CSS/JS. Permite visualizar e adotar animais filtrados por categoria preenchendo um formulário validado com Flask-WTF.
