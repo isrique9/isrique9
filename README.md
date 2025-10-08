@@ -23,6 +23,7 @@
 
 ## 📊 Linguagens mais usadas:
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyo-night)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyo-night)
 
 [![Isrique Contribuation Graph](https://github-readme-activity-graph.vercel.app/graph?username=Isrique9&theme=tokyo-night)](https://github.com/isrique9/github-readme-activity-graph)
