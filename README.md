@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isrique9&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&theme=tokyonight&hide_border=true&card_width=450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&theme=tokyonight&&bg_color=00000000&hide_border=true&card_width=450" />
 </p>
 
 [![Isrique Contribuation Graph](https://github-readme-activity-graph.vercel.app/graph?username=Isrique9&theme=tokyo-night)](https://github.com/isrique9/github-readme-activity-graph)
