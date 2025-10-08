@@ -21,9 +21,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 </p>
 
-## 📊 Linguagens mais usadas:
+## 📊 Minhas estatísticas no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isrique9&show_icons=true&theme=tokyo-night)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&theme=tokyo-night)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isrique9&show_icons=true&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&theme=tokyonight)
+
 
 [![Isrique Contribuation Graph](https://github-readme-activity-graph.vercel.app/graph?username=Isrique9&theme=tokyo-night)](https://github.com/isrique9/github-readme-activity-graph)
