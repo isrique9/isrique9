@@ -5,6 +5,7 @@
 🧠 Apaixonado por tecnologia e design
 
 ## Redes:
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ei.rik_/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31sauf4eqy5o6bosjdhjqbze74zy?si=9dc96b88e3c148fc)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/israel.henrique.5?locale=pt_BR)
@@ -33,7 +34,5 @@
     </td>
   </tr>
 </table>
-
-
 
 [![Isrique Contribuation Graph](https://github-readme-activity-graph.vercel.app/graph?username=Isrique9&theme=tokyo-night)](https://github.com/isrique9/github-readme-activity-graph)
