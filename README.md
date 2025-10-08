@@ -36,3 +36,7 @@
 </table>
 
 [![Isrique Contribuation Graph](https://github-readme-activity-graph.vercel.app/graph?username=Isrique9&theme=tokyo-night)](https://github.com/isrique9/github-readme-activity-graph)
+
+
+![Pacman eating my commits](https://raw.githubusercontent.com/isrique9/svg-pacman-contributions/output/pacman.svg)
+
