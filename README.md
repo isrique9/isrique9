@@ -1,15 +1,14 @@
 # 👋 Olá, eu sou o Henrique!
 
-<div align="center">
-  <div style="display: inline-block; text-align: left; vertical-align: middle; max-width: 400px;">
-    <p>🎓 Desenvolvedor Front-end na Prefeitura de Cajamar<br>
+<p align="center">
+  <span>
+    🎓 Desenvolvedor Front-end na Prefeitura de Cajamar<br>
     🚀 Iniciante motivado em constante aprendizado<br>
-    🧠 Apaixonado por tecnologia e design</p>
-  </div>
-  <div style="display: inline-block; vertical-align: middle; margin-left: 25px;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
-  </div>
-</div>
+    🧠 Apaixonado por tecnologia e design
+  </span>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" style="margin-left: 20px; vertical-align: middle;" />
+</p>
+
 
 ## Redes:
 
