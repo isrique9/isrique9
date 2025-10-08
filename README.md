@@ -3,7 +3,6 @@
 <table>
   <tr>
     <td>
-      <h3>👋 Olá, eu sou o Henrique!</h3>
       <p>🎓 Desenvolvedor Front-end na Prefeitura de Cajamar<br>
       🚀 Iniciante motivado em constante aprendizado<br>
       🧠 Apaixonado por tecnologia e design</p>
