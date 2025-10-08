@@ -1,8 +1,18 @@
 # 👋 Olá, eu sou o Henrique!
 
-🎓 Desenvolvedor Front-end na Prefeitura de Cajamar  
-🚀 Iniciante motivado em constante aprendizado  
-🧠 Apaixonado por tecnologia e design
+<table>
+  <tr>
+    <td>
+      <h3>👋 Olá, eu sou o Henrique!</h3>
+      <p>🎓 Desenvolvedor Front-end na Prefeitura de Cajamar<br>
+      🚀 Iniciante motivado em constante aprendizado<br>
+      🧠 Apaixonado por tecnologia e design</p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+    </td>
+  </tr>
+</table>
 
 ## Redes:
 
