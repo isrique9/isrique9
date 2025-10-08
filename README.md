@@ -23,7 +23,8 @@
 
 ## 📊 Minhas estatísticas no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isrique9&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isrique9&show_icons=true&theme=tokyonight&bg_color=00000000)
+
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&theme=tokyonight)
 
 
