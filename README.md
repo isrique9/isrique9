@@ -36,6 +36,4 @@
   </tr>
 </table>
 
-[![Isrique Contribuation Graph](https://github-readme-activity-graph.vercel.app/graph?username=Isrique9&theme=tokyo-night)](https://github.com/isrique9/github-readme-activity-graph)
-
 
