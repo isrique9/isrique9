@@ -4,7 +4,6 @@
 🚀 Iniciante motivado em constante aprendizado<br>
 🧠 Apaixonado por tecnologia e design
 
-
 ## Redes:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ei.rik_/)
