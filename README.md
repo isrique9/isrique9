@@ -22,17 +22,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 </p>
 
-## 📊 Minhas estatísticas no GitHub
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=isrique9&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&card_width=450" />
-    </td>
-  </tr>
-</table>
-
 
