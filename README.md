@@ -34,19 +34,17 @@ Tecnologias utilizadas para desenvolvimento de interfaces e experiência do usu�
   
   <!-- Frameworks Front -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
 </p>
 
 ---
 
-### ⚙️ Back
-Tecnologias utilizadas para lógica de negócio, APIs e processamento no servidor.
+### 👾 Back
 <p align="left">
   <!-- Linguagens Back -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  
-  <!-- Frameworks Back -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" height="40" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
 </p>
 
@@ -56,7 +54,7 @@ Tecnologias utilizadas para lógica de negócio, APIs e processamento no servido
 Ferramentas de versionamento e colaboração.
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40" alt="GitHub" />
 </p>
 
 ## Redes sociais:
