@@ -8,9 +8,19 @@ Atuo como **Desenvolvedor Front-end** na Prefeitura de Cajamar, criando soluçõ
 
 ## 📊 Status da Conta:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&theme=radical" alt="Top Langs"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&theme=radical" 
+    alt="Top Langs" 
+    style="height: 180px;"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=isrique9&show_icons=true&theme=radical" 
+    alt="GitHub Stats" 
+    style="height: 180px;"
+  />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=isrique9&show_icons=true&theme=radical" alt="GitHub Stats"/>
 
 ## 💻 Tecnologias:
 
