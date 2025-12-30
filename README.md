@@ -36,7 +36,7 @@ Tecnologias utilizadas para desenvolvimento de interfaces e experiência do usu�
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40" alt="GitHub" />
 </p>
 
-## Redes sociais:
+## 📱 Redes sociais:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ei.rik_/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31sauf4eqy5o6bosjdhjqbze74zy?si=9dc96b88e3c148fc)
