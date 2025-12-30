@@ -31,7 +31,6 @@ Tecnologias utilizadas para desenvolvimento de interfaces e experiência do usu�
 ---
 
 ### 🛠️ Controle de versão
-Ferramentas de versionamento e colaboração.
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40" alt="GitHub" />
