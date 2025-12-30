@@ -6,22 +6,6 @@
 
 Atuo como **Desenvolvedor Front-end** na Prefeitura de Cajamar, criando soluções digitais para melhorar a experiência dos usuários. Sou um profissional em início de carreira, altamente motivado e em constante evolução, sempre buscando novos desafios e aprendizados. Tenho verdadeira paixão por **tecnologia e design**, unindo criatividade e lógica para transformar ideias em interfaces funcionais e atraentes. 💫
 
-## 📊 Status da Conta:
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&theme=radical" 
-    alt="Top Langs" 
-    style="height: 180px;"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=isrique9&show_icons=true&theme=radical" 
-    alt="GitHub Stats" 
-    style="height: 180px;"
-  />
-</div>
-
-
 ## 💻 Tecnologias:
 
 ### 🎨 Front
