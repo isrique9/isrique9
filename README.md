@@ -36,6 +36,22 @@ Tecnologias utilizadas para desenvolvimento de interfaces e experiência do usu�
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40" alt="GitHub" />
 </p>
 
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isrique9&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+## ⏳ Wakatime
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=isrique9&theme=radical" alt="Wakatime Stats" />
+</p>
+
 ## 📱 Redes sociais:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ei.rik_/)
