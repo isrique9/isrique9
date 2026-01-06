@@ -4,7 +4,7 @@ Atuo como **Desenvolvedor Front-end** na Prefeitura de Cajamar, criando soluçõ
 
 ## 💻 Tecnologias:
 
-### 🎨 Front
+### 🎨 Front:
 Tecnologias utilizadas para desenvolvimento de interfaces e experiência do usuário.
 <p align="left">
   <!-- Linguagens Front -->
@@ -19,7 +19,7 @@ Tecnologias utilizadas para desenvolvimento de interfaces e experiência do usu�
 
 ---
 
-### 👾 Back
+### 👾 Back:
 <p align="left">
   <!-- Linguagens Back -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
@@ -30,7 +30,7 @@ Tecnologias utilizadas para desenvolvimento de interfaces e experiência do usu�
 
 ---
 
-### 🛠️ Controle de versão
+### 🛠️ Controle de versão:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40" alt="GitHub" />
