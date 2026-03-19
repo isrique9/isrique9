@@ -5,7 +5,6 @@ Atuo como **Desenvolvedor Front-end** na Prefeitura de Cajamar, criando soluçõ
 ## 💻 Tecnologias:
 
 ### 🎨 Front:
-Tecnologias utilizadas para desenvolvimento de interfaces e experiência do usuário.
 <p align="left">
   <!-- Linguagens Front -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
