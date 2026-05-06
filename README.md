@@ -2,10 +2,7 @@
 
 Atuo como **Desenvolvedor Front-end** na Prefeitura de Cajamar, criando soluções digitais para melhorar a experiência dos usuários. Sou um profissional em início de carreira, altamente motivado e em constante evolução, sempre buscando novos desafios e aprendizados. Tenho verdadeira paixão por **tecnologia e design**, unindo criatividade e lógica para transformar ideias em interfaces funcionais e atraentes. 💫
 
-## 🖥️ Portfólio
-
-Acesse meus trabalhos e projetos em:  
-[**Meu portfólio oficial**]([https://seudominio.com](https://isrique9.github.io/portfolio-IsraelH/))
+Acesse meus trabalhos e projetos [**aqui**](https://isrique9.github.io/portfolio-IsraelH/).
 
 ## 💻 Tecnologias:
 
