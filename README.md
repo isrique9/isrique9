@@ -10,7 +10,7 @@ Atuo como **Desenvolvedor Front-end** na Prefeitura de Cajamar, criando soluçõ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  
+
   <!-- Frameworks Front -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
@@ -38,16 +38,13 @@ Atuo como **Desenvolvedor Front-end** na Prefeitura de Cajamar, criando soluçõ
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=isrique9&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="profile/stats.svg" />
+  <img height="165" src="profile/top-langs.svg" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=isrique9&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ## 📱 Redes sociais:
 
@@ -55,4 +52,3 @@ Atuo como **Desenvolvedor Front-end** na Prefeitura de Cajamar, criando soluçõ
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31sauf4eqy5o6bosjdhjqbze74zy?si=9dc96b88e3c148fc)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/israel.henrique.5?locale=pt_BR)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-henrique-068a33334)
-
