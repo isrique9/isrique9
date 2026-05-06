@@ -1,43 +1,26 @@
-# 👋 Opa! Bem-vindo ao meu perfil <br> 🤓 Prazer, sou o **Israel Henrique**!
+# 👋 Olá! Eu sou o **Israel Henrique**
 
-Atuo como **Desenvolvedor Front-end** na Prefeitura de Cajamar, criando soluções digitais para melhorar a experiência dos usuários. Sou um profissional em início de carreira, altamente motivado e em constante evolução, sempre buscando novos desafios e aprendizados. Tenho verdadeira paixão por **tecnologia e design**, unindo criatividade e lógica para transformar ideias em interfaces funcionais e atraentes. 💫
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2D9EF7&center=false&vCenter=true&width=500&lines=Desenvolvedor+Front-end.;Criatividade+%26+Paixão+por+tecnologia!;Sempre+em+evolu%C3%A7%C3%A3o!)](https://git.io/typing-svg)
 
-Acesse meus trabalhos e projetos [**aqui**](https://isrique9.github.io/portfolio-IsraelH/).
+### 🚀 Sobre mim
 
-## 💻 Tecnologias:
+Sou **Desenvolvedor Front-end** na **Prefeitura de Cajamar**, onde crio soluções digitais que melhoram a experiência dos usuários.  
+Estou no início da carreira, mas com uma motivação gigante: **aprender, evoluir e construir interfaces funcionais e atraentes**.  
+Unindo **design** e **lógica**, transformo ideias em código de verdade. 💫
 
-### 🎨 Front:
+🔗 **Portfólio** → [isrique9.github.io/portfolio-IsraelH](https://isrique9.github.io/portfolio-IsraelH/)
+
+---
+
+### 💼 Tech Stack
+
 <p align="left">
-  <!-- Linguagens Front -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-
-  <!-- Frameworks Front -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,cs,py,flask,fastapi,git,github" />
 </p>
 
 ---
 
-### 👾 Back:
-<p align="left">
-  <!-- Linguagens Back -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" height="40" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
-</p>
-
----
-
-### 🛠️ Controle de versão:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40" alt="GitHub" />
-</p>
-
-## 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <p align="center">
   <img height="165" src="profile/stats.svg" />
@@ -48,9 +31,26 @@ Acesse meus trabalhos e projetos [**aqui**](https://isrique9.github.io/portfolio
   <img src="https://streak-stats.demolab.com?user=isrique9&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📱 Redes sociais:
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ei.rik_/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31sauf4eqy5o6bosjdhjqbze74zy?si=9dc96b88e3c148fc)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/israel.henrique.5?locale=pt_BR)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-henrique-068a33334)
+### 🌐 Onde me encontrar
+
+<div align="center">
+  <a href="https://www.instagram.com/ei.rik_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/31sauf4eqy5o6bosjdhjqbze74zy?si=9dc96b88e3c148fc" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/israel.henrique.5?locale=pt_BR" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/israel-henrique-068a33334" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+⭐ **Obrigado pela visita!**  
+Siga-me ou entre em contato – bora trocar uma ideia sobre tecnologia, design e código. 🚀
