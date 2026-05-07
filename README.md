@@ -1,6 +1,10 @@
+<div align="center">
+
 # 👋 Olá! Eu sou o **Israel Henrique**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2D9EF7&center=false&vCenter=true&width=500&lines=Desenvolvedor+Front-end.;Criatividade+%26+Paixão+por+tecnologia!;Sempre+em+evolu%C3%A7%C3%A3o!)](https://git.io/typing-svg)
+
+</div>
 
 ### 🚀 Sobre mim
 
