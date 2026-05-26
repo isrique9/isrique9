@@ -2,17 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2D9EF7&center=false&vCenter=true&width=500&lines=Desenvolvedor+Front-end.;Criatividade+%26+Paixão+por+tecnologia!;Sempre+em+evolu%C3%A7%C3%A3o!)](https://git.io/typing-svg)
 
-### 🚀 Sobre mim
+### Sobre mim
 
 Sou **Desenvolvedor Front-end** da **A2W Tecnologia** na **Prefeitura de Cajamar**, onde crio soluções digitais que melhoram a experiência dos usuários.  
 Estou no início da carreira, mas com uma motivação gigante: **aprender, evoluir e construir interfaces funcionais e atraentes**.  
 Unindo **design** e **lógica**, transformo ideias em código de verdade. 💫
 
-🔗 **Portfólio** → [isrique9.github.io/portfolio-IsraelH](https://isrique9.github.io/portfolio-IsraelH/)
+**Portfólio** → [isrique9.github.io/portfolio-IsraelH](https://isrique9.github.io/portfolio-IsraelH/)
 
 ---
 
-### 💼 Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,cs,py,flask,fastapi,git,github,figma" />
@@ -20,7 +20,7 @@ Unindo **design** e **lógica**, transformo ideias em código de verdade. 💫
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <p align="center">
   <img height="165" src="profile/stats.svg" />
@@ -33,7 +33,7 @@ Unindo **design** e **lógica**, transformo ideias em código de verdade. 💫
 
 ---
 
-### 🌐 Onde me encontrar
+### Onde me encontrar
 
 <div align="center">
   <a href="https://www.instagram.com/ei.rik_/" target="_blank">
@@ -52,5 +52,5 @@ Unindo **design** e **lógica**, transformo ideias em código de verdade. 💫
 
 ---
 
-⭐ **Obrigado pela visita!**  
+**Obrigado pela visita!**  
 Siga-me ou entre em contato – bora trocar uma ideia sobre tecnologia, design e código. 🚀
