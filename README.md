@@ -15,7 +15,7 @@ Unindo **design** e **lógica**, transformo ideias em código de verdade. 💫
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,cs,py,flask,fastapi,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=vue,php,cs,py,flask,fastapi,html,css,js,bootstrap,git,github,figma" />
 </p>
 
 ---
