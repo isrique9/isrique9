@@ -4,7 +4,7 @@
 
 ### Sobre mim
 
-Sou **Desenvolvedor Front-end** da **A2W Tecnologia** na **Prefeitura de Cajamar**, onde crio soluções digitais que melhoram a experiência dos usuários.  
+Sou **Desenvolvedor de Sistemas** da **A2W Tecnologia** na **Prefeitura de Cajamar**, onde crio soluções digitais que melhoram a experiência dos usuários.  
 Estou no início da carreira, mas com uma motivação gigante: **aprender, evoluir e construir interfaces funcionais e atraentes**.  
 Unindo **design** e **lógica**, transformo ideias em código de verdade. 💫
 
