@@ -4,11 +4,13 @@
 
 ### Sobre mim
 
-Sou **Desenvolvedor de Sistemas** da **A2W Tecnologia** na **Prefeitura de Cajamar**, onde crio soluções digitais que melhoram a experiência dos usuários.  
-Estou no início da carreira, mas com uma motivação gigante: **aprender, evoluir e construir interfaces funcionais e atraentes**.  
+Sou **Desenvolvedor de Sistemas** da **A2W Tecnologia** na **Prefeitura de Cajamar**, onde crio soluções digitais que melhoram a experiência dos usuários.
+Estou no início da carreira, mas com uma motivação gigante: **aprender, evoluir e construir interfaces funcionais e atraentes**.
 Unindo **design** e **lógica**, transformo ideias em código de verdade. 💫
 
 **Portfólio** → [isrique9.github.io/portfolio-IsraelH](https://isrique9.github.io/portfolio-IsraelH/)
+
+<img src="Coding Develio.gif"/>
 
 ---
 
@@ -52,5 +54,5 @@ Unindo **design** e **lógica**, transformo ideias em código de verdade. 💫
 
 ---
 
-**Obrigado pela visita!**  
+**Obrigado pela visita!**
 Siga-me ou entre em contato – bora trocar uma ideia sobre tecnologia, design e código. 🚀
